@@ -32,7 +32,7 @@ The Game version(s) specific releases are compatible with are mentioned in the R
 - Can either be always visible / hidden or hidden just while playing
 - Ingame preview size customizable
 
-## Spout2 integration by TheDoctorTTV
+## Spout2
 
 This fork adds per-camera Spout2 output to Camera2. Select a camera and open its
 **Spout2** tab to enable output, hide its desktop preview, or choose an output
